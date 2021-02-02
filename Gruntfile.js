@@ -1,4 +1,5 @@
-//Comment is added 
+//Comment is added
+//Check git success 
 module.exports = function(grunt) {
 
   require('load-grunt-tasks')(grunt);
